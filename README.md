@@ -5,7 +5,7 @@ Add your own 'userId'. Then run index.js to start the challenge.
 
 <b>Challenge 1:</b>
 
-{
+```{
   "stage": "1/4",
   "statement": "Return the count of characters in the paragraph. Including spaces and punctuations.",
   "instructions": "You can 'GET' the input from /challenge/input and output should be 'POST' json to /challenge/output. Important note: The time between request 'GET' input and 'POST' requests should not exceed 2 secs.",
@@ -20,9 +20,9 @@ Add your own 'userId'. Then run index.js to start the challenge.
     }
   }
 }
-
+```
 <b>Challenge 2:</b>
-  
+```  
   {
   "stage": "2/4",
   "statement": "Return the count of words in the paragraph.",
@@ -38,9 +38,9 @@ Add your own 'userId'. Then run index.js to start the challenge.
     }
   }
 }
-  
+```  
 <b>Challenge 3:</b>  
-  
+  ```
 {
   "stage": "3/4",
   "statement": "Return the number of sentences in a paragraph. Sentences are always terminated with either a full stop (.), a question mark (?) or an exclamation mark (!).  There will be a space after each sentence, except for the last one.",
@@ -56,11 +56,11 @@ Add your own 'userId'. Then run index.js to start the challenge.
     }
   }
 }
- 
+ ```
   
   
 <b>Challenge 4:</b>  
-  
+  ```
 {
   "stage": "4/4",
   "statement": "Return the number of vowels in the paragraph. Ex. {\"a\": 20, \"e\": 32, \"i\": 19, \"o\": 2, \"u\": 15}",
@@ -80,7 +80,7 @@ Add your own 'userId'. Then run index.js to start the challenge.
     }
   }
 }
-  
+  ```
   
   
   
