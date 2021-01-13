@@ -1,7 +1,7 @@
 # ThoughtWorksHttpChallenge
 Code for the ThoughtWorks challenge which is given when one wants to interview at ThoughtWorks.
 
-Add your own 'userId'.
+Add your own 'userId'. Then run index.js to start the challenge.
 
 <b>Challenge 1:</b>
 
