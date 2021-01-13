@@ -1,5 +1,5 @@
 # ThoughtWorksHttpChallenge
-Code for the ThoughtWorks challenge which is given when one wants to interview at ThoughtWorks.
+Code for the ThoughtWorks http hunt (REST API) challenge which is given when one wants to interview at ThoughtWorks.
 
 Add your own 'userId'. Then run index.js to start the challenge.
 
